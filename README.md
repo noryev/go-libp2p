@@ -168,3 +168,7 @@ There's a few things you can do right now to help out:
 ---
 
 The last gx published version of this module was: 6.0.41: QmTRN7hRxvGkxKxDdeudty7sRet4L7ZKZCqKsXHa79wmAc
+
+----------------------------------------
+
+What changes do you need to make and what example should you use?
