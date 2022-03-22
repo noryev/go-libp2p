@@ -171,4 +171,4 @@ The last gx published version of this module was: 6.0.41: QmTRN7hRxvGkxKxDdeudty
 
 ----------------------------------------
 
-What changes do you need to make and what example should you use?
+What changes do you need to make and what example should you use? You want to view a 
